@@ -1,0 +1,1 @@
+funtion shout(string)
